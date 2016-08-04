@@ -1,0 +1,37 @@
+_repo: Jimmie-Higgins_5677
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Garrison, Frederick
+    - Fitch, Clarke
+    - Sinclair, Upton Beall
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: Sinclair wrote Jimmie Higgins in response to the First World War. He
+  broke with the main body of the American Socialist Party at that time, favoring
+  U.S. involvement in WWI, because of the threat of German militarism. After the war,
+  however, he opposed any interference to the developing Bolshevik regime in Moscow.
+  The title character of Jimmie Higgins enlists in the army and fights bravely, but
+  is tortured into madness following the war, for espousing the same policies as did
+  Sinclair himself.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5677'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Social problems -- Fiction'
+- !lcsh 'War stories'
+- GITenberg
+title: Jimmie Higgins
+url: http://www.gutenberg.org/ebooks/5677
