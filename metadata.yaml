@@ -1,5 +1,8 @@
 _repo: Jimmie-Higgins_5677
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sinclair, Upton
@@ -19,6 +22,8 @@ description: Sinclair wrote Jimmie Higgins in response to the First World War. H
   The title character of Jimmie Higgins enlists in the army and fights bravely, but
   is tortured into madness following the war, for espousing the same policies as did
   Sinclair himself.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5677#Jimmie-Higgins
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
